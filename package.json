@@ -1,0 +1,15 @@
+{
+  "name": "projectonbackend",
+  "version": "1.0.0",
+  "description": "JavaScript and Express",
+  "keywords": [
+    "express"
+  ],
+  "license": "ISC",
+  "author": "Rajesh Kumar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
